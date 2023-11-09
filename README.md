@@ -12,3 +12,7 @@
 
 https://meyerweb.com/eric/tools/css/reset/
 https://fonts.google.com/specimen/Roboto?stroke=Sans+Serif
+
+# Code Review
+
+- Check feedback.md
